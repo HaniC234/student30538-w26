@@ -1,4 +1,3 @@
-# student30538-w26
 # PPHA 30538: Data Analytics and Visualization for Public Policy
 ## Winter 2026
 ## University of Chicago Harris School of Public Policy
@@ -12,40 +11,10 @@ Each problem set and mini-lesson will have their own folders within their respec
 ---
 # Accessing the Repository
 ## Step 1: Fork the Repository  
-- Go to the [original repository](https://github.com/uchicago-harris-dap/student30538) on GitHub.  
+- Go to the [original repository](https://github.com/uchicago-harris-dap/student30538-w26) on GitHub.  
 - Click the **Fork** button in the upper-right corner of the repository page. This will create a personal copy of the repository in your GitHub account.
 
 ---
-
-## Using GitHub Desktop
-
-### Step 2: Clone Your Forked Repository  
-1. Open **GitHub Desktop**.  
-2. Click **File > Clone Repository**.  
-3. Select the **"URL" tab** and paste in **https://github.com/uchicago-harris-dap/student30538-w26**.
-4. Choose a local directory where you want to clone the repository.  
-5. Click **Clone**.
-
-### Step 3: Sync Your Fork with the Original Repository  
-1. Open the cloned repository in GitHub Desktop.  
-2. Click **Repository > Repository Settings**.  
-3. Under **Remotes**, click **Add Remote**.  
-4. Set the name as `upstream` and paste the **https://github.com/uchicago-harris-dap/student30538-w26** of the original repository:
-   ```
-   https://github.com/uchicago-harris-dap/student30538-w26
-   ```
-5. Click **Save**.  
-6. To fetch updates from the original repository, click **Fetch Origin** in the main GitHub Desktop window.  
-7. When updates are available, click **Pull** to merge them into your local copy.
-
-### Step 4: Push Changes to Your Fork  
-1. After making changes, click **Commit to main** in GitHub Desktop.  
-2. Add a commit message and click **Commit**.  
-3. Click **Push Origin** to send the changes to your forked repository on GitHub.
-
----
-
-## Using Command Line
 
 ### Step 2: Clone Your Forked Repository  
 1. In your GitHub account, navigate to your **forked repository**.  
