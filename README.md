@@ -50,16 +50,6 @@ Each problem set and mini-lesson will have their own folders within their respec
    ```
    Replace `main` if the default branch has a different name (e.g., `master`).
 
-### Step 5: Push Changes to Your Fork  
-1. After making changes, stage and commit them:
-   ```bash
-   git add .
-   git commit -m "Your commit message"
-   ```
-2. Push the changes to your fork:
-   ```bash
-   git push origin main
-   ```
 
 ---
 
